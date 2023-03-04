@@ -1,0 +1,10 @@
+build/
+dist/
+*.pyc
+*.pyo
+*.egg-info/
+*.dmg
+*.app
+*.ipa
+*.zip
+*.tar.gz
